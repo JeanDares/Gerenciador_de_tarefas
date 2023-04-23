@@ -1,0 +1,25 @@
+.footer{
+  height: 50px;
+  background-color: rgb(221, 221, 221);
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer span {
+  font-size: 15px;
+  font-weight: 600;
+}
+.links a  {
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.links a:hover  {
+  color: rgb(230, 178, 10);
+}
