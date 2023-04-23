@@ -1,27 +1,25 @@
 # GerenciadorTarefas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+<h2> Olá, sejam bem vindos /<h2>
 
-## Development server
+Esse projeto é um gerenciador de tarefas do dia a dia, ele esta disponivel no link a seguir :
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ [Gerenciador de tarefas](https://gerenciador-de-tarefas-angular.vercel.app/tarefas/listar) 
 
-## Code scaffolding
+## Tecnologias e técnicas utilizadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`Esse projeto foi desenvolvido em ANgular 14 com CLI e utilizado bootstrap na estilização. `
 
-## Build
+--  Criação do CRUD
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-- Utilização  de rotas
 
-## Running unit tests
+--Formulários
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-- Validação de formulários
 
-## Running end-to-end tests
+-- Armazenamento de dados no localStorage
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-- Ciclo de   vida dos componentes
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
