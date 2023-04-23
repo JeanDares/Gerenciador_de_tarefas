@@ -6,6 +6,7 @@ import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CadastrarTarefasComponent } from './cadastrar/cadastrar-tarefas/cadastrar-tarefas.component';
 import { EditarTarefaComponent } from './editar/editar-tarefa/editar-tarefa.component';
+import { TarefaConclui3daDirective } from './shared/concluida/tarefa-concluida.directive';
 
 
 
@@ -13,7 +14,8 @@ import { EditarTarefaComponent } from './editar/editar-tarefa/editar-tarefa.comp
   declarations: [
     ListarTarefasComponent,
     CadastrarTarefasComponent,
-    EditarTarefaComponent
+    EditarTarefaComponent,
+    TarefaConclui3daDirective
   ],
   imports: [
     CommonModule,
